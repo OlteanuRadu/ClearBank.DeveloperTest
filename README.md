@@ -1,5 +1,7 @@
 # ClearBank.DeveloperTest
 
+[![.NET](https://github.com/OlteanuRadu/ClearBank.DeveloperTest/actions/workflows/dotnet.yml/badge.svg)](https://github.com/OlteanuRadu/ClearBank.DeveloperTest/actions/workflows/dotnet.yml)
+
 ## Getting Started With ClearBank.DeveloperTest.API (Optional)
 
 1. Clone the repo
