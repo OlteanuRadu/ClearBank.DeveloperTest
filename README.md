@@ -15,3 +15,9 @@
 }
 ```
 
+## ClearBank.DeveloperTest.Tests
+- tested relevant business rules for payment service and account validation.
+
+## ClearBank.DeveloperTest
+- migrated to net7 + changed the code accordingly to the requirements.
+
